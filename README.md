@@ -1,26 +1,32 @@
 # Hi 👋, I'm Mohamed Fawzy
 
-🎓 Computer Science Student
-💻 Currently learning C++ and problem solving
-🚀 Building projects step by step
+💡 Passionate about learning and building real-world projects
+
+---
+
+## 🎓 About Me
+
+* AI Student 🤖
+* Interested in problem solving and software development
+* Currently learning C++
 
 ---
 
 ## 🛠️ Skills
 
-* C++
-* Basic OOP
-* Problem Solving
+* 💻 C++
+* 🧠 Problem Solving
+* 🏗️ Basic OOP
 
 ---
 
-## 📌 Projects
+## 🚀 What I'm Doing Now
 
-* 📚 Library Management System
-* 🧮 Simple Calculator
+* Improving my programming skills step by step
+* Building small projects to strengthen my fundamentals
 
 ---
 
 ## 🎯 Goal
 
-Keep learning, keep building, and improve every day.
+To become a skilled AI developer by combining programming and problem solving.
